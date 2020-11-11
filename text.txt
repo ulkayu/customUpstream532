@@ -1,3 +1,4 @@
 line 1
 new line of text
 new line 2
+new line 3
